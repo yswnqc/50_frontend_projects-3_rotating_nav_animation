@@ -22,7 +22,7 @@ img {
   background-color: white;
   transform-origin: 0 0;
   width: 100vw;
-  height: 100vh;
+  height: 103vh;
   transition: transform 0.3s linear;
 }
 
@@ -31,7 +31,7 @@ img {
 }
 
 .content {
-  height: 96%;
+  height: 93%;
   overflow-y: scroll;
   max-width: 1000px;
   padding: 80px 50px 0 50px;
