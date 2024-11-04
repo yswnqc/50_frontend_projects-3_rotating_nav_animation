@@ -1,7 +1,7 @@
 # 50_frontend_projects-3_rotating_nav_animation
 
 
-Frontend practicing projects 3/50. 
+ 3/50 Frontend practicing projects [Collection](https://github.com/yswnqc/50_frontend_projects-collection).
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-3_rotating_nav_animation/) here.
 
