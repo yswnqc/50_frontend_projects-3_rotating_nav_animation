@@ -10,6 +10,7 @@
 
 ### Need impreve
 - Bottom space can do something else
+- Mobile version has no bottom space
 
 From [50projects50days](https://50projects50days.com).
 
